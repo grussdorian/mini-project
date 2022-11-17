@@ -1,6 +1,5 @@
-# As part of the summer interim project at RKMVERI
+# As part of the summer project at RKMVERI
 
-## Guide - Dr Siddharth Tallur (IIT Bombay)
 
 ![1](./ico/1.jpg)
 
