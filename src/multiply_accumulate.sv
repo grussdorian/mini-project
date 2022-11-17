@@ -24,7 +24,6 @@ module mac(
       {r1,r2} = bus;
       buffer += r1*r2;
       $display("r1=%d r2=%d buffer=%d", r1,r2,buffer);
-      // $display("wt_buff[%d]=%d,x_buff[%d]=%d, bus=%d",address,wt_buff[address], address,x_buff[address],bus);
       address +=1;
     end
     else begin
