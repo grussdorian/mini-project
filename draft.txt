@@ -1,0 +1,9 @@
+Number classifier
+
+
+1. Gated clock
+2. Bus width
+
+	16 bit bus. Every address containing a unique Input or a unique weight/bias
+
+currently have:	32 bit bus, and for the first level it will contain {input, weight}
