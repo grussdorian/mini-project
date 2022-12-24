@@ -3790,14 +3790,30 @@ fe fe 34 27*0 79 fe fe db
     <comp lib="3" loc="(320,900)" name="Comparator">
       <a name="width" val="64"/>
     </comp>
-    <comp lib="3" loc="(360,280)" name="Multiplier"/>
-    <comp lib="3" loc="(360,340)" name="Multiplier"/>
-    <comp lib="3" loc="(360,400)" name="Multiplier"/>
-    <comp lib="3" loc="(360,460)" name="Multiplier"/>
-    <comp lib="3" loc="(360,520)" name="Multiplier"/>
-    <comp lib="3" loc="(360,580)" name="Multiplier"/>
-    <comp lib="3" loc="(360,640)" name="Multiplier"/>
-    <comp lib="3" loc="(360,700)" name="Multiplier"/>
+    <comp lib="3" loc="(360,280)" name="Multiplier">
+      <a name="mode" val="twosComplement"/>
+    </comp>
+    <comp lib="3" loc="(360,340)" name="Multiplier">
+      <a name="mode" val="twosComplement"/>
+    </comp>
+    <comp lib="3" loc="(360,400)" name="Multiplier">
+      <a name="mode" val="twosComplement"/>
+    </comp>
+    <comp lib="3" loc="(360,460)" name="Multiplier">
+      <a name="mode" val="twosComplement"/>
+    </comp>
+    <comp lib="3" loc="(360,520)" name="Multiplier">
+      <a name="mode" val="twosComplement"/>
+    </comp>
+    <comp lib="3" loc="(360,580)" name="Multiplier">
+      <a name="mode" val="twosComplement"/>
+    </comp>
+    <comp lib="3" loc="(360,640)" name="Multiplier">
+      <a name="mode" val="twosComplement"/>
+    </comp>
+    <comp lib="3" loc="(360,700)" name="Multiplier">
+      <a name="mode" val="twosComplement"/>
+    </comp>
     <comp lib="3" loc="(420,310)" name="Adder"/>
     <comp lib="3" loc="(420,430)" name="Adder"/>
     <comp lib="3" loc="(420,550)" name="Adder"/>
@@ -3809,14 +3825,30 @@ fe fe 34 27*0 79 fe fe db
     <comp lib="3" loc="(820,890)" name="Comparator">
       <a name="width" val="64"/>
     </comp>
-    <comp lib="3" loc="(910,280)" name="Multiplier"/>
-    <comp lib="3" loc="(910,340)" name="Multiplier"/>
-    <comp lib="3" loc="(910,400)" name="Multiplier"/>
-    <comp lib="3" loc="(910,460)" name="Multiplier"/>
-    <comp lib="3" loc="(910,520)" name="Multiplier"/>
-    <comp lib="3" loc="(910,580)" name="Multiplier"/>
-    <comp lib="3" loc="(910,640)" name="Multiplier"/>
-    <comp lib="3" loc="(910,700)" name="Multiplier"/>
+    <comp lib="3" loc="(910,280)" name="Multiplier">
+      <a name="mode" val="twosComplement"/>
+    </comp>
+    <comp lib="3" loc="(910,340)" name="Multiplier">
+      <a name="mode" val="twosComplement"/>
+    </comp>
+    <comp lib="3" loc="(910,400)" name="Multiplier">
+      <a name="mode" val="twosComplement"/>
+    </comp>
+    <comp lib="3" loc="(910,460)" name="Multiplier">
+      <a name="mode" val="twosComplement"/>
+    </comp>
+    <comp lib="3" loc="(910,520)" name="Multiplier">
+      <a name="mode" val="twosComplement"/>
+    </comp>
+    <comp lib="3" loc="(910,580)" name="Multiplier">
+      <a name="mode" val="twosComplement"/>
+    </comp>
+    <comp lib="3" loc="(910,640)" name="Multiplier">
+      <a name="mode" val="twosComplement"/>
+    </comp>
+    <comp lib="3" loc="(910,700)" name="Multiplier">
+      <a name="mode" val="twosComplement"/>
+    </comp>
     <comp lib="3" loc="(910,980)" name="Adder"/>
     <comp lib="4" loc="(1210,960)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
